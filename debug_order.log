@@ -1,0 +1,282 @@
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 56
+    [name] => Blue Berry Cold Coffee
+    [price] => 349
+    [image] => f175fcd7170d5da249145d6cc4d1ec15.jpg
+    [qty] => 3
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 56
+    [name] => Blue Berry Cold Coffee
+    [price] => 349
+    [image] => f175fcd7170d5da249145d6cc4d1ec15.jpg
+    [qty] => 3
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 49
+    [name] => Pineapple Frappe
+    [price] => 399
+    [image] => 085a203af9e3b483fbb3537f0198417c.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 58
+    [name] => Laate Cold Coffee
+    [price] => 499
+    [image] => e55f07f76dda830b9a968058f9b9c999.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 56
+    [name] => Blue Berry Cold Coffee
+    [price] => 349
+    [image] => f175fcd7170d5da249145d6cc4d1ec15.jpg
+    [qty] => 3
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 56
+    [name] => Blue Berry Cold Coffee
+    [price] => 349
+    [image] => f175fcd7170d5da249145d6cc4d1ec15.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 58
+    [name] => Laate Cold Coffee
+    [price] => 499
+    [image] => e55f07f76dda830b9a968058f9b9c999.jpg
+    [qty] => 3
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 2
+Processing Item: Array
+(
+    [id] => 58
+    [name] => Laate Cold Coffee
+    [price] => 499
+    [image] => e55f07f76dda830b9a968058f9b9c999.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Processing Item: Array
+(
+    [id] => 48
+    [name] => Oreo Frappe
+    [price] => 499
+    [image] => 732b5a867ea297e70ea4189490d87786.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 2
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 47
+    [name] => Strawberry Frappe
+    [price] => 399
+    [image] => c172e92b417d22c7d409e665a7cdb70a.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 58
+    [name] => Laate Cold Coffee
+    [price] => 499
+    [image] => e55f07f76dda830b9a968058f9b9c999.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 47
+    [name] => Strawberry Frappe
+    [price] => 399
+    [image] => c172e92b417d22c7d409e665a7cdb70a.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 46
+    [name] => Chocolate Frappe
+    [price] => 599
+    [image] => a34c413b763037010399888ac5981e16.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 44
+    [name] => Laate
+    [price] => 399
+    [image] => 12f952fc882dc54b861bc717aa515109.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 47
+    [name] => Strawberry Frappe
+    [price] => 399
+    [image] => c172e92b417d22c7d409e665a7cdb70a.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 46
+    [name] => Chocolate Frappe
+    [price] => 599
+    [image] => a34c413b763037010399888ac5981e16.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 42
+    [name] => Mazagron
+    [price] => 140
+    [image] => istockphoto-1145612951-612x612.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 2
+Processing Item: Array
+(
+    [id] => 45
+    [name] => JAVA CHIP
+    [price] => 599
+    [image] => 989d56d9e28d0cc08836527b7a5b3dd3.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Processing Item: Array
+(
+    [id] => 42
+    [name] => Mazagron
+    [price] => 140
+    [image] => istockphoto-1145612951-612x612.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 2
+Starting Loop. Count: 2
+Processing Item: Array
+(
+    [id] => 47
+    [name] => Strawberry Frappe
+    [price] => 399
+    [image] => c172e92b417d22c7d409e665a7cdb70a.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Processing Item: Array
+(
+    [id] => 46
+    [name] => Chocolate Frappe
+    [price] => 599
+    [image] => a34c413b763037010399888ac5981e16.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 2
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 56
+    [name] => Blue Berry Cold Coffee
+    [price] => 349
+    [image] => f175fcd7170d5da249145d6cc4d1ec15.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 46
+    [name] => Chocolate Frappe
+    [price] => 599
+    [image] => a34c413b763037010399888ac5981e16.jpg
+    [qty] => 1
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
+Starting Loop. Count: 1
+Processing Item: Array
+(
+    [id] => 49
+    [name] => Pineapple Frappe
+    [price] => 399
+    [image] => 085a203af9e3b483fbb3537f0198417c.jpg
+    [qty] => 2
+)
+
+Item inserted successfully.
+Transaction Committed. Inserted Count: 1
